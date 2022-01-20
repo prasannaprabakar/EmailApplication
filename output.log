@@ -1,0 +1,7 @@
+[main] INFO  testCases.BaseClass  - Launching the chrome
+[main] INFO  testCases.BaseClass  - Navigate to yahoo.com
+[main] INFO  testCases.BaseClass  - Entering the username demodemo901 and password Prasanna@123
+[main] INFO  testCases.BaseClass  - demodemo901 Prasanna@123 is valid username and password
+[main] INFO  testCases.BaseClass  - Store the Sender Subject Time in Objects
+[main] INFO  testCases.BaseClass  - Creating csv file
+[main] INFO  testCases.BaseClass  - quit the browser
